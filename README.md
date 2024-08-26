@@ -30,4 +30,4 @@ To run this project, you will need to add the following environment variables to
 [Documentation](https://docs.google.com/document/d/12XbVRpOPbfHtdHez_Of75F-sfIrxe2pdu57AzCXQgm4/edit?usp=sharing)
 
 ## Demo Working Video
-[Demo Video](https://github.com/RajPrajapati7383/Dental-clinic-Appointment-booking/blob/main/Demo.gif)
+(https://github.com/RajPrajapati7383/Dental-clinic-Appointment-booking/blob/main/Demo.gif)
